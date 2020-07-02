@@ -1,0 +1,24 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Weather,Rain last hour,Snow last hour,Date,Hotel Name
+31,Bilibino,68.05,166.44,41.95,85,100,6.8,RU,light rain,0.45,0,2020-07-01 03:30:29,Gostinitsa Severyanka
+46,Mataura,-46.19,168.86,41.76,91,99,3.62,NZ,light rain,0.11,0,2020-07-01 03:30:34,Ellie's Villa
+94,Constitucion,-35.33,-72.42,52.68,81,100,4.72,CL,light rain,0.17,0,2020-07-01 03:30:49,Hotel Boutique Las Azucenas
+168,Scarborough,54.28,-0.4,55.99,91,84,3.42,GB,light rain,0.51,0,2020-07-01 03:31:14,Ambassador
+174,Lebu,-37.62,-73.65,50.97,93,100,22.08,CL,moderate rain,2.61,0,2020-07-01 03:31:16,Hostal Las Lilas
+187,Chuy,-33.7,-53.46,57.07,93,100,23.94,UY,light rain,0.87,0,2020-07-01 03:31:20,Nuevo Hotel Plaza
+189,Northam,51.03,-4.22,57.99,91,98,8.99,GB,light rain,0.16,0,2020-07-01 03:31:21,Durrant House Hotel
+195,Lavrentiya,65.58,-171.0,43.21,94,100,12.84,RU,moderate rain,1.3,0,2020-07-01 03:31:23,UNKNOWN
+236,Waipawa,-41.41,175.52,48.2,70,100,34.45,NZ,light rain,0.58,0,2020-07-01 03:31:38,Tora Coastal Walk
+297,Rawson,-43.3,-65.1,44.29,87,100,17.81,AR,light rain,0.35,0,2020-07-01 03:30:44,Hotel Punta León
+360,Ahipara,-35.17,173.17,55.62,76,19,14.92,NZ,light rain,0.32,0,2020-07-01 03:32:19,Ahipara Holiday Park
+385,Shuyskoye,59.37,41.03,53.56,97,100,9.46,RU,light rain,0.42,0,2020-07-01 03:32:27,UNKNOWN
+386,Burns Lake,54.23,-125.75,57.54,69,100,4.61,CA,light rain,0.18,0,2020-07-01 03:32:27,Burns Lake Bed and Breakfast
+417,Fairbanks,64.84,-147.72,54.0,71,75,8.19,US,light rain,0.76,0,2020-07-01 03:32:37,Westmark Fairbanks Hotel & Conference Center
+448,Dunedin,-45.87,170.5,44.01,85,100,3.0,NZ,light rain,0.13,0,2020-07-01 03:30:06,Scenic Hotel Southern Cross
+454,Kemijarvi,66.71,27.43,51.44,96,100,6.13,FI,moderate rain,1.15,0,2020-07-01 03:32:50,Hotelli Kemijärvi
+480,Nome,64.5,-165.41,48.99,87,90,11.41,US,light rain,0.25,0,2020-07-01 03:32:58,Dredge 7 Inn
+487,Christchurch,-43.53,172.63,44.01,87,100,17.22,NZ,moderate rain,1.02,0,2020-07-01 03:28:58,"Chateau on the Park - Christchurch, a DoubleTree by Hilton"
+492,Kaitangata,-46.28,169.85,46.0,61,100,7.0,NZ,light rain,0.12,0,2020-07-01 03:29:59,Kaitangata Motor Camp
+493,Lieksa,63.32,30.02,55.2,88,80,17.65,FI,light rain,0.4,0,2020-07-01 03:33:03,Kaatrahovi
+551,Berlevag,70.86,29.09,44.62,93,100,22.12,NO,light rain,0.66,0,2020-07-01 03:33:23,Kvitbrakka
+562,Chumikan,54.72,135.31,47.66,95,100,2.68,RU,light rain,0.26,0,2020-07-01 03:33:26,Fortuna
+584,Beringovskiy,63.05,179.32,41.07,96,100,5.21,RU,light rain,0.26,0,2020-07-01 03:30:24,Beringgorski
